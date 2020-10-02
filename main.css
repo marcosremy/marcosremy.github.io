@@ -63,15 +63,23 @@
     
 }
 
+#khanProjects { 
+
+  width:400px;
+  margin:0 auto;
+
+}
+
 #khanProjects h2{ 
 
   text-align:center;
 
 }
 
-#khanProjects iframe{ 
+#khanProjects img{ 
 
-  text-align:center;
+  width:400px;
+  height:400px;
 
 }
   
