@@ -6,6 +6,11 @@
     
        }
   
+      a:visited {
+        
+        color:#000000;
+        
+      }
        #navbar {
          
          width:642px;
