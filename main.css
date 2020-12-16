@@ -11,8 +11,20 @@
         color:#000000;
         
       }
+      
+      a:link {
+            
+            color:#000000;
+            
+      }
+      
+      a:hover {
+            
+            color:#A9A9A9;
+            
+      }
 
-       #navbar {
+      #navbar {
          
          width:642px;
          height:41px;
